@@ -1,0 +1,15 @@
+anndata==0.9.1
+matplotlib==3.5.1
+numba==0.56.4
+numpy==1.23.5
+palantir==1.2
+pandas==1.4.1
+scanpy==1.9.3
+scikit_learn==1.1.1
+scikit_network==0.30.0
+scipy==1.8.0
+seaborn==0.11.2
+torch==2.0.0+cu117
+torch_geometric==2.2.0
+torch_sparse==0.6.17+pt20cu117
+umap_learn==0.5.3
