@@ -9,6 +9,9 @@ The advent of single-cell RNA sequencing (scRNA-seq) has brought about a revolut
 1. pip install all the requirements via 'pip install requirements.txt'
 
 2. Please look at the bTBI_GAT_Training.ipynb for tutorial on how to replicate our results in your own environment 
+
   *note: cuda version could be different so check your own environment and if not use cpu
+
   **note: upload the 'BESTGATWeights.pkl' file to the model to get our top performing model
+
   ***note: if visualizing via the 'bTBI_GAT_Latent_Space.ipynb' also upload the genies file which contains a list of the top 2000 DEGs
